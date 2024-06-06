@@ -1,1 +1,5 @@
-class Person{}
+class Person{
+
+    void add(){}
+
+}
